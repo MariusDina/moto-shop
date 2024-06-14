@@ -1,0 +1,52 @@
+version: '3.4'
+services:
+  database:
+    image: mysql:latest
+    container_name: database
+    ports:
+      - 3306:3306
+    environment:
+      - MYSQL_DATABASE=moto-shop
+      - MYSQL_ROOT_PASSWORD=password
+
+  api:
+    depends_on:
+      - database
+    container_name: api
+    build:
+      context: ./api
+      dockerfile: ./Dockerfile
+    ports:
+      - 4000:4000
+    environment:
+      - TYPEORM_HOST=database
+
+  web-interface:
+    depends_on:
+      - api
+    container_name: web-interface
+    build:
+      context: ./app
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:3000
+
+  prometheus:
+    image: prom/prometheus:v2.33.1
+    container_name: prometheus
+    ports:
+      - '9090:9090'
+    volumes:
+      - ./configs/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+
+  grafana:
+    image: grafana/grafana:8.1.7
+    container_name: grafana
+    ports:
+      - '3001:3000'
+    volumes:
+      - ./configs/grafana/provisioning/prometheus.yaml:/etc/grafana/provisioning/datasources/prometheus.yaml
+      - ./configs/grafana/provisioning/dashboards.yaml:/etc/grafana/provisioning/dashboards/dashboards.yaml
+      - ./configs/grafana/dashboards/moto-shop-dashboard.json:/etc/grafana/provisioning/dashboards/moto-shop-dashboard.json

@@ -1,0 +1,273 @@
+[
+  {
+    "brand": "Yamaha",
+    "model": "R1",
+    "description": "Fiecare detaliu al lui R1 a fost dezvoltat cu know-how-ul pe care Yamaha l-a dobindit din cursele la cel mai inalt nivel. Puternicul motor transversal cu patru cilindri de 998 cm2 este o ramura a unitatii M1. Carenajul aerodinamic vine, de asemenea, direct din dezvoltarea curselor.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Icon_Blue-360-Degrees-001-03.jpg",
+    "price": 20994,
+    "capacity": 998,
+    "colors": {
+      "blue": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Icon_Blue-360-Degrees-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Midnight_Black-Studio-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "BMW",
+    "model": "G 310 R",
+    "description": "Description for Product 2",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/126519/g-310-gs-right-front-three-quarter.png?isig=0&q=80",
+    "price": 0.1,
+    "capacity": 310,
+    "colors": {
+      "black": "https://imgd.aeplcdn.com/664x374/n/cw/ec/126519/g-310-gs-right-front-three-quarter.png?isig=0&q=80"
+    },
+    "quickShifter": false,
+    "tires": [
+      "Slick Racing",
+      "Strada",
+      "Adventure Cross"
+    ]
+  },
+  {
+    "brand": "Harley-Davidson",
+    "model": "Sportster S",
+    "description": "Description for Product 3",
+    "image": "https://d2bywgumb0o70j.cloudfront.net/2021/07/13/f67aba2c10b58547413dcb92ed80fc13_dbfd3796482dea99.png",
+    "price": 1100,
+    "capacity": 1000,
+    "colors": {
+      "black": "https://d2bywgumb0o70j.cloudfront.net/2021/07/13/f67aba2c10b58547413dcb92ed80fc13_dbfd3796482dea99.png"
+    },
+    "quickShifter": false,
+    "tires": [
+      "Slick Racing",
+      "Strada",
+      "Adventure Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "R1M",
+    "description": "Yamaha a dezvoltat R1M pentru utilizare in curse, folosind unele dintre cele mai sofisticate tehnologii de la motocicleta de curse M1 MotoGP castigatoare. Sasiul de inalta tehnologie ohlins Electronic Racing Suspension (ERS) cu furca telescopica anti-cavitatie NPX impresioneaza prin performanta de top pe fiecare circuit de curse. Carenatul din carbon cu o zona frontala mica optimizeaza aerodinamica si scurteaza timpii pe tur.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-360-Degrees-001-03.jpg",
+    "price": 27994,
+    "capacity": 998,
+    "colors": {
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "MT-10 SP",
+    "description": "Aceasta motocicleta sport naked brutala, emblematica este prima motocicleta din lume care este echipata cu un sasiu cu supapa de control cu 6 moduri controlat electronic de la ohlins. In modul semi-activ, amortizarea este ajustata automat la conditiile de conducere si asigura cel mai inalt nivel de precizie a sasiului la franare, accelerare si viraj.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-360-Degrees-001-03.jpg",
+    "price": 19600,
+    "capacity": 998,
+    "colors": {
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "MT-10",
+    "description": "Regele gamei MT impune respect total, iar primul lucru care atrage atentia este ansamblul compact al farurilor si designul agresiv al rezervorului, care evidentiaza aspectul remarcabil al partii mecanice de pe MT-10. Iar din momentul in care auzi huruitul adanc al motorului CP4 de 998 cmc din admisiile de aer, vei sti ca aceasta motocicleta este pentru tine.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10/2024-Yamaha-MT10-EU-Icon_Blue-360-Degrees-001-03.jpg",
+    "price": 16300,
+    "capacity": 998,
+    "colors": {
+      "gray": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10/2024-Yamaha-MT10-EU-Midnight_Cyan-360-Degrees-001-03.jpg",
+      "blue": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10/2024-Yamaha-MT10-EU-Icon_Blue-360-Degrees-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10/2024-Yamaha-MT10-EU-Tech_Black-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XSR900",
+    "description": "Nu te lasa pacalit de atractivul aspect fara varsta al XSR900 pentru ca, sub infatisarea aceasta de motocicleta de curse din anii '80, exista multa tehnologie de inalta performanta. Nu numai ca este echipata cu motorul EU5 CP3 de 890 cmc, cu functionare lina si cuplu foarte ridicat, dar dispune si de un sasiu usor, in stil Deltabox, cu cilindru principal radial Brembo, roti Spinforged usoare si suspensie complet reglabila.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-360-Degrees-001-03.jpg",
+    "price": 11900,
+    "capacity": 890,
+    "colors": {
+      "red": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-360-Degrees-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Midnight_Black-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "TRACER GT ",
+    "description": "Portbagajele laterale rigide aerodinamice pot transporta o casca integrala si sunt prevazute standard cu panouri coordonate cromatic. Daca aveti nevoie de spatiu suplimentar, puteti, de asemenea, instala un portbagaj superior suplimentar, iar sistemul complet flotant de sustinere a portbagajului si va oferi o senzatie naturala a pilotajului, chiar si atunci cand motocicleta transporta o sarcina maxima",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRGT/2023-Yamaha-MT09TRGT-EU-Pure_White-360-Degrees-001-03.jpg",
+    "price": 14900,
+    "capacity": 1000,
+    "colors": {
+      "white": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRGT/2023-Yamaha-MT09TRGT-EU-Pure_White-360-Degrees-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRGT/2023-Yamaha-MT09TRGT-EU-Midnight_Black-Studio-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "R6 RACE ",
+    "description": "R6 RACE se prezinta intr-un carenaj cu design agresiv, cu intrarea de aer izbitoare, in forma de M, in fata. Este inspirata de motocicleta de curse de fabrica MotoGP si ofera o eficienta aerodinamica maxima pentru timpi pe ture rapide. Cadrul Deltabox compact din aluminiu cu un cadru spate subtire din magneziu si forma rezervorului de aluminiu permit pilotului sa fie perfect integrat pe linie dreapta.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-001-03.jpg",
+    "price": 14449,
+    "capacity": 599,
+    "colors": {
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "R6 GYTR",
+    "description": "R6 GYTR, cu varietatea sa de piese GYTR Racing, este o motocicleta de curse pura care atinge un nou nivel de performanta. Piesele de curse includ un ECU de curse, un cablaj diferit si elemente ale sistemului de admisie a aerului (AIS) pentru a optimiza performanta motorului. Sistemul de evacuare din titan Akrapovic economiseste greutatea si creste performanta motorului de 599 cm2 in intervalul de viteza superioara.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RGYTR/2024-Yamaha-YZF600R6RGYTR-EU-Primer_White-Studio-001-03.jpg",
+    "price": 21664,
+    "capacity": 599,
+    "colors": {
+      "white": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RGYTR/2024-Yamaha-YZF600R6RGYTR-EU-Primer_White-Studio-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "MT-07",
+    "description": "Cel mai recent MT-07 este, de asemenea, echipat cu un cockpit TFT de 5 inchi cu design de afisare selectabil si conectivitate pentru smartphone. Cu cuplul care induce ranjetul motorului sau CP2 si nota sa de evacuare in plina expansiune, aceasta mototcicleta promite un nivel de emosie captivant.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Icon_Blue-Studio-001-03.jpg",
+    "price": 8374,
+    "capacity": 689,
+    "colors": {
+      "gray": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-360-Degrees-001-03.jpg",
+      "blue": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Icon_Blue-Studio-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Tech_Black-Studio-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "XSR700 LEGACY",
+    "description": "Prin crearea unui stil de motocicleta alternativ care combina stilul retro cu tehnologia moderna, modelele Yamaha XSR si ofera posibilitatea de a merge pe drumul tau. Ghidonul lat cu bara centrala si lampile rotunde, precum si culorile unice si anvelopele cu banda de rulare bloc fac din aceasta motocicleta compacta Sport Heritage o adevarata atractie a ochilor.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700SV/2024-Yamaha-XS700SV-EU-Speedblock_Silver-360-Degrees-001-03.jpg",
+    "price": 9674,
+    "capacity": 689,
+    "colors": {
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700SV/2024-Yamaha-XS700SV-EU-Speedblock_Silver-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "TACER 7 GT",
+    "description": "TRACER 7 GT este propulsat de motorul Yamaha CP2 cu cuplu mare de 690 cmc si are un cadru carenat compact si usor. TRACER 7 GT este cea mai mare greutate medie pentru ciclisti care doresc o bicicleta sport incitanta, care ofera, de asemenea, versatilitate pe distante lungi si flexibilitate urbana.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07TRGT/2024-Yamaha-MT07TRGT-EU-Icon_Performance-360-Degrees-001-03.jpg",
+    "price": 10674,
+    "capacity": 1000,
+    "colors": {
+      "gray": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07TRGT/2024-Yamaha-MT07TRGT-EU-Icon_Performance-360-Degrees-001-03.jpg",
+      "blue": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07TRGT/2024-Yamaha-MT07TRGT-EU-Phantom_Blue-360-Degrees-001-03.jpg",
+      "black": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07TRGT/2024-Yamaha-MT07TRGT-EU-Midnight_Black-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  },
+  {
+    "brand": "Yamaha",
+    "model": "TENERE 700 WORLD ",
+    "description": "Impreuna, cele doua rezervoare de combustibil au o capacitate de 23 de litri. Acest lucru permite distante de pana la 500 de kilometri. Acest lucru inseamna ca puteti calatori pe distante lungi in salbaticie cu senzatia buna de siguranta ca nu veti ramane fara combustibil atat de repede. Un afisaj color TFT de 5 inchi cu conectivitate pentru smartphone va ofera toate informatiile importante si afiseaza mesajele text si apelurile primite pe ecran.",
+    "image": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700D/2024-Yamaha-XTZ700D-EU-Icon_Blue-360-Degrees-001-03.jpg",
+    "price": 13374,
+    "capacity": 689,
+    "colors": {
+      "blue": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-360-Degrees-001-03.jpg"
+    },
+    "quickShifter": true,
+    "tires": [
+      "Slick",
+      "Racing",
+      "Strada",
+      "Adventure",
+      "Cross"
+    ]
+  }
+]
