@@ -31,7 +31,7 @@ You can stop the Docker container with `docker-compose down`
 | Component | URL | User | Password |
 | :--- |  :--- | :---: | :---: |
 | API | http://localhost:4000/docs | - | - |
-| Web Interface | http://localhost:3000 | - | - |
+| Web Interface | https://localhost:3000 | - | - |
 | Database | http://localhost:3306 | root | password |
 | Prometheus | http://localhost:9090 | - | - |
 | Grafana | http://localhost:3001 | admin | admin |
